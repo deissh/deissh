@@ -13,6 +13,7 @@
 
   <img align="top" src="https://img.stackshare.io/service/1612/bynNY5dJ.jpg" height=25/>
 
+<!---
 #### ⚡ Fun facts
 <p align="center">
   <img align="top" src="https://i.imgur.com/5rWFZco.png" />
