@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### 🔭 I’m currently working on
-- [RL](https://github.com/deissh/rl) - osu!lazer compatible server.
+- [RL](https://github.com/rl-os) - osu!lazer compatible server.
 
   <img align="top" src="https://img.stackshare.io/service/1005/O6AczwfV_400x400.png" height=25/>
   <img align="top" src="https://img.stackshare.io/service/1612/bynNY5dJ.jpg" height=25/>
