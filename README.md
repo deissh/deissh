@@ -12,6 +12,7 @@
 - [Ground Station](https://github.com/deissh/ground-station) - Simple 2D game engine with data driven entity component system
 
   <img align="top" src="https://img.stackshare.io/service/1049/cplusplus.png" height=25/>
+  <img align="top" src="https://img.stackshare.io/service/2118/128px-Lua-Logo.svg.png" height=25/>
   <img align="top" src="https://img.stackshare.io/service/4050/conan_small.png" height=25/>
 
 <!---
